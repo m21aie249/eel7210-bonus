@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CNN
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/ConvolutionStage1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionStage1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/ConvolutionStage2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionStage2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage2_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage2_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage3_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage3_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage4_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage4_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_Full/adderStage5_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adderStage5_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/Max Pooling Layer/maxPooling.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxPooling
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rohitmathurs/eel7210/eel7210-bonus/CNN_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CNN_tb
